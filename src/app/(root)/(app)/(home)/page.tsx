@@ -13,8 +13,8 @@ export default function HomePage() {
           <span className="grid grid-cols-2 justify-items-end">
             <span className="block"></span>
             <span className="block text-sm opacity-90">
-              Earthy
-              <br /> Designs
+              Earthy Designs
+              <br /> Your Branding Expert! 
             </span>
           </span>
         </h1>
